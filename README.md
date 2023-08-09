@@ -138,6 +138,7 @@ Result
 
 - [ABILASH D](https://www.github.com/)
 - [KAMALESH K](https://www.github.com/)
+- [KARTHIC KUMARAN S](https://www.github.com/)
 - [ADHITHYA SD](https://www.github.com/)
 - [DHANUSHA SRIMATHI A](https://www.github.com/)
 - [SELVA KRISHNAN R](https://www.github.com/)
