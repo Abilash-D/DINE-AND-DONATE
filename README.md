@@ -140,10 +140,8 @@ Result
 - [KAMALESH K](https://www.github.com/)
 - [KARTHIC KUMARAN S](https://www.github.com/)
 - [ADHITHYA SD](https://www.github.com/)
-- [DHANUSHA SRIMATHI A](https://www.github.com/)
 - [SELVA KRISHNAN R](https://www.github.com/)
 - [ATULYA PRABHANJAN](https://www.github.com/)
-- [VAIBHAV U I](https://www.github.com/)
 
 
 
